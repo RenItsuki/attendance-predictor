@@ -2,10 +2,10 @@ Student Attendance AI
 Project Overview
 Student Attendance AI is a desktop application built using Python and Tkinter. It implements Logistic Regression from scratch (without external machine learning libraries) to predict student attendance probability based on daily conditions.
 The system can:
-•	• Train on past attendance data
-•	• Predict today's student attendance probability
-•	• Display model accuracy
-•	• Continuously update the dataset with actual values
+  • Train on past attendance data
+  • Predict today's student attendance probability
+  • Display model accuracy
+  • Continuously update the dataset with actual values
 Core Files
 •	data_model.py – Contains the Logistic Regression implementation including:
   - Sigmoid function
